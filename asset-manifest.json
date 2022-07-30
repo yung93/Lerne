@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Lerne/static/css/main.28718048.css",
-    "main.js": "/Lerne/static/js/main.940a1729.js",
+    "main.js": "/Lerne/static/js/main.db2fac6a.js",
     "static/js/974.61e48e9a.chunk.js": "/Lerne/static/js/974.61e48e9a.chunk.js",
     "static/js/117.4005a68d.chunk.js": "/Lerne/static/js/117.4005a68d.chunk.js",
     "static/js/235.65065786.chunk.js": "/Lerne/static/js/235.65065786.chunk.js",
@@ -12,7 +12,7 @@
     "static/media/logo.svg": "/Lerne/static/media/logo.23944c5a835710a0a8702c2043c9cbd9.svg",
     "index.html": "/Lerne/index.html",
     "main.28718048.css.map": "/Lerne/static/css/main.28718048.css.map",
-    "main.940a1729.js.map": "/Lerne/static/js/main.940a1729.js.map",
+    "main.db2fac6a.js.map": "/Lerne/static/js/main.db2fac6a.js.map",
     "974.61e48e9a.chunk.js.map": "/Lerne/static/js/974.61e48e9a.chunk.js.map",
     "117.4005a68d.chunk.js.map": "/Lerne/static/js/117.4005a68d.chunk.js.map",
     "235.65065786.chunk.js.map": "/Lerne/static/js/235.65065786.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.28718048.css",
-    "static/js/main.940a1729.js"
+    "static/js/main.db2fac6a.js"
   ]
 }
