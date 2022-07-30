@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lerne/static/css/main.28718048.css",
+    "main.js": "/lerne/static/js/main.701c608d.js",
+    "static/js/974.61e48e9a.chunk.js": "/lerne/static/js/974.61e48e9a.chunk.js",
+    "static/js/117.4005a68d.chunk.js": "/lerne/static/js/117.4005a68d.chunk.js",
+    "static/js/235.65065786.chunk.js": "/lerne/static/js/235.65065786.chunk.js",
+    "static/js/787.c74b0b59.chunk.js": "/lerne/static/js/787.c74b0b59.chunk.js",
+    "static/js/82.c0550adb.chunk.js": "/lerne/static/js/82.c0550adb.chunk.js",
+    "static/js/154.e42f6474.chunk.js": "/lerne/static/js/154.e42f6474.chunk.js",
+    "static/js/460.336108ee.chunk.js": "/lerne/static/js/460.336108ee.chunk.js",
+    "static/media/logo.svg": "/lerne/static/media/logo.23944c5a835710a0a8702c2043c9cbd9.svg",
+    "index.html": "/lerne/index.html",
+    "main.28718048.css.map": "/lerne/static/css/main.28718048.css.map",
+    "main.701c608d.js.map": "/lerne/static/js/main.701c608d.js.map",
+    "974.61e48e9a.chunk.js.map": "/lerne/static/js/974.61e48e9a.chunk.js.map",
+    "117.4005a68d.chunk.js.map": "/lerne/static/js/117.4005a68d.chunk.js.map",
+    "235.65065786.chunk.js.map": "/lerne/static/js/235.65065786.chunk.js.map",
+    "787.c74b0b59.chunk.js.map": "/lerne/static/js/787.c74b0b59.chunk.js.map",
+    "82.c0550adb.chunk.js.map": "/lerne/static/js/82.c0550adb.chunk.js.map",
+    "154.e42f6474.chunk.js.map": "/lerne/static/js/154.e42f6474.chunk.js.map",
+    "460.336108ee.chunk.js.map": "/lerne/static/js/460.336108ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28718048.css",
+    "static/js/main.701c608d.js"
+  ]
+}
