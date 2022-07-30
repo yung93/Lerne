@@ -1,0 +1,62 @@
+[
+  {
+    "word": "lernen",
+    "translation": "study, learn",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "essen",
+    "translation": "food",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "apfel",
+    "translation": "apple",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "trinken",
+    "translation": "drink",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "laufen",
+    "translation": "run",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "auge",
+    "translation": "eye",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "spielen",
+    "translation": "play",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "lesen",
+    "translation": "reading",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "kochen",
+    "translation": "cook",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "kind",
+    "translation": "child",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "vater",
+    "translation": "father",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mutter",
+    "translation": "mother",
+    "partOfSpeech": "noun"
+  }
+]
