@@ -7,7 +7,7 @@ const Spelling = lazy(() => import('pages/Spelling/Spelling'));
 
 function IndexRouter(): JSX.Element {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route
           path="/"
