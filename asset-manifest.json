@@ -1,28 +1,32 @@
 {
   "files": {
     "main.css": "/Lerne/static/css/main.28718048.css",
-    "main.js": "/Lerne/static/js/main.db2fac6a.js",
-    "static/js/974.61e48e9a.chunk.js": "/Lerne/static/js/974.61e48e9a.chunk.js",
-    "static/js/117.4005a68d.chunk.js": "/Lerne/static/js/117.4005a68d.chunk.js",
-    "static/js/235.65065786.chunk.js": "/Lerne/static/js/235.65065786.chunk.js",
+    "main.js": "/Lerne/static/js/main.96713281.js",
+    "static/js/974.15ec7080.chunk.js": "/Lerne/static/js/974.15ec7080.chunk.js",
+    "static/js/117.2b06c74c.chunk.js": "/Lerne/static/js/117.2b06c74c.chunk.js",
+    "static/js/625.6d6cf875.chunk.js": "/Lerne/static/js/625.6d6cf875.chunk.js",
+    "static/js/627.e4d18513.chunk.js": "/Lerne/static/js/627.e4d18513.chunk.js",
     "static/js/787.c74b0b59.chunk.js": "/Lerne/static/js/787.c74b0b59.chunk.js",
-    "static/js/82.c0550adb.chunk.js": "/Lerne/static/js/82.c0550adb.chunk.js",
-    "static/js/154.e42f6474.chunk.js": "/Lerne/static/js/154.e42f6474.chunk.js",
-    "static/js/460.336108ee.chunk.js": "/Lerne/static/js/460.336108ee.chunk.js",
+    "static/js/223.d6f765bc.chunk.js": "/Lerne/static/js/223.d6f765bc.chunk.js",
+    "static/js/618.4347476f.chunk.js": "/Lerne/static/js/618.4347476f.chunk.js",
+    "static/js/666.82f7a60b.chunk.js": "/Lerne/static/js/666.82f7a60b.chunk.js",
+    "static/js/688.ce88bd24.chunk.js": "/Lerne/static/js/688.ce88bd24.chunk.js",
     "static/media/logo.svg": "/Lerne/static/media/logo.23944c5a835710a0a8702c2043c9cbd9.svg",
     "index.html": "/Lerne/index.html",
     "main.28718048.css.map": "/Lerne/static/css/main.28718048.css.map",
-    "main.db2fac6a.js.map": "/Lerne/static/js/main.db2fac6a.js.map",
-    "974.61e48e9a.chunk.js.map": "/Lerne/static/js/974.61e48e9a.chunk.js.map",
-    "117.4005a68d.chunk.js.map": "/Lerne/static/js/117.4005a68d.chunk.js.map",
-    "235.65065786.chunk.js.map": "/Lerne/static/js/235.65065786.chunk.js.map",
+    "main.96713281.js.map": "/Lerne/static/js/main.96713281.js.map",
+    "974.15ec7080.chunk.js.map": "/Lerne/static/js/974.15ec7080.chunk.js.map",
+    "117.2b06c74c.chunk.js.map": "/Lerne/static/js/117.2b06c74c.chunk.js.map",
+    "625.6d6cf875.chunk.js.map": "/Lerne/static/js/625.6d6cf875.chunk.js.map",
+    "627.e4d18513.chunk.js.map": "/Lerne/static/js/627.e4d18513.chunk.js.map",
     "787.c74b0b59.chunk.js.map": "/Lerne/static/js/787.c74b0b59.chunk.js.map",
-    "82.c0550adb.chunk.js.map": "/Lerne/static/js/82.c0550adb.chunk.js.map",
-    "154.e42f6474.chunk.js.map": "/Lerne/static/js/154.e42f6474.chunk.js.map",
-    "460.336108ee.chunk.js.map": "/Lerne/static/js/460.336108ee.chunk.js.map"
+    "223.d6f765bc.chunk.js.map": "/Lerne/static/js/223.d6f765bc.chunk.js.map",
+    "618.4347476f.chunk.js.map": "/Lerne/static/js/618.4347476f.chunk.js.map",
+    "666.82f7a60b.chunk.js.map": "/Lerne/static/js/666.82f7a60b.chunk.js.map",
+    "688.ce88bd24.chunk.js.map": "/Lerne/static/js/688.ce88bd24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28718048.css",
-    "static/js/main.db2fac6a.js"
+    "static/js/main.96713281.js"
   ]
 }
