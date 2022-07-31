@@ -20,6 +20,9 @@ const StyledButton = styled(MUIButton)`
      border-width: 5px;
      border-radius: 20px;
      letter-spacing: 5px;
+     & .MuiButton-startIcon > svg {
+       font-size: 2.1875rem;
+     }
    }
 `;
 

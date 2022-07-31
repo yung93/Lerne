@@ -59,7 +59,7 @@ const SplitInput = <FieldValue extends Record<string, any>>({
         }
       };
 
-  const handleKeyPress: (e: React.KeyboardEvent<HTMLInputElement | HTMLTextAreaElement>, index: number, onChange: (...event: any[]) => void, currValue: string[]) => void = (e, index, onChange, currValue) => {
+  const handleKeyPress: (e: React.KeyboardEvent<HTMLInputElement | HTMLTextAreaElement>, index: number, onChange: (...event: any[]) => void, currValue: string[]) => void = (e, index) => {
     if (e.key === 'Backspace' && e.target.value.length <= 0 && index > 0) {
       inputsRef.current[index - 1].focus();
       e.preventDefault();

@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 const DefaultLayout = lazy(() => import('pages/DefaultLayout/DefaultLayout'));
 const Home = lazy(() => import('pages/Home/Home'));
 const Spelling = lazy(() => import('pages/Spelling/Spelling'));
+const Leaderboard = lazy(() => import('pages/Leaderboard/Leaderboard'));
 
 function IndexRouter(): JSX.Element {
   return (
@@ -20,6 +21,10 @@ function IndexRouter(): JSX.Element {
           <Route
             path="/spelling"
             element={<Spelling />}
+          />
+          <Route
+            path="/leaderboard"
+            element={<Leaderboard />}
           />
         </Route>
       </Routes>

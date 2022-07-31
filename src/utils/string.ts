@@ -10,3 +10,10 @@ export const getPOSAbbr: (partOfSpeech: PartOfSpeech) => string = (partOfSpeech)
       return partOfSpeech;
   }
 };
+
+export const formatTime = (timer: number) => {
+  const seconds = `0${(timer % 60)}`.slice(-2);
+  const minutes = `${Math.floor(timer / 60)}`;
+
+  return `${minutes} : ${seconds}`;
+};

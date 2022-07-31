@@ -1,9 +1,7 @@
-import React, { useRef } from 'react';
+import React from 'react';
+import { render } from '@testing-library/react';
 import {
-  fireEvent, render, screen, waitFor,
-} from '@testing-library/react';
-import {
-  useForm, FormProvider, SubmitHandler,
+  useForm, FormProvider,
 } from 'react-hook-form';
 import SplitInput from './SplitInput';
 
