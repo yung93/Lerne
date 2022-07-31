@@ -1,5 +1,5 @@
 import React, { lazy } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 const DefaultLayout = lazy(() => import('pages/DefaultLayout/DefaultLayout'));
 const Home = lazy(() => import('pages/Home/Home'));
@@ -8,7 +8,7 @@ const Leaderboard = lazy(() => import('pages/Leaderboard/Leaderboard'));
 
 function IndexRouter(): JSX.Element {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Routes>
         <Route
           path="/"
